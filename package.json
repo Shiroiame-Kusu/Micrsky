@@ -1,0 +1,8 @@
+{
+  "name": "Micrsky",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Shiroiame-Kusu/Micrsky.git",
+  "author": "楠ちゃん <kusu@kusu.moe>",
+  "license": "MIT"
+}
